@@ -1,1 +1,1 @@
-# Projects_Ai
+# CIFAR_10 DATA ANALYSIS
